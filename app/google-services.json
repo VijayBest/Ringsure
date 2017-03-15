@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "466586927259",
+    "firebase_url": "https://admob-app-id-8666083506.firebaseio.com",
+    "project_id": "admob-app-id-8666083506",
+    "storage_bucket": "admob-app-id-8666083506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466586927259:android:81558f9537714d3b",
+        "android_client_info": {
+          "package_name": "project.com.ringsureapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466586927259-dbnb47d6mk70u4p7cjtuu2jed6qndlu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYhfwz2s7IBT-qrySlBSaUoFucJMCCEjI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

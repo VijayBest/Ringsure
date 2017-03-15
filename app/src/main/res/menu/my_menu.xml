@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/share"
+        android:title="Share"
+        app:actionLayout="@layout/menulayout" />
+
+    <item
+        android:id="@+id/rate"
+        android:icon="@drawable/rate"
+        android:title="Rate"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/buynow"
+        android:icon="@drawable/buy"
+        android:title="Buy"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/refresh"
+        android:icon="@drawable/refresh_icon"
+        android:title="Refresh"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/refresh_icon"
+        android:title="Delete Logs"
+        app:showAsAction="never" />
+
+</menu>
